@@ -1,6 +1,6 @@
 # FSR Image Upscaler
 GUI for AMD's FSR upscaler.
-This is a fork of [SoyKhaler's]() [IA-FSR-Image-Upscale]() what introduces more features.
+This is a fork of [SoyKhaler's](https://github.com/soykhaler) [IA-FSR-Image-Upscale](https://github.com/soykhaler/IA-FSR-Image-Upscale) what introduces more features.
 - Upscale images in batches (upscales the all images in the folder) [ ]
 - Customizable sizing and sharpening [ ]
 - More options for saving output [ ]
