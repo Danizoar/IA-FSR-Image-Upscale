@@ -1,5 +1,10 @@
-# IA-FSR-Image-Upscale
-Uses AMD FSR for image scaling
+# FSR Image Upscaler
+GUI for AMD's FSR upscaler.
+This is a fork of [SoyKhaler's]() [IA-FSR-Image-Upscale]() what introduces more features.
+- Upscale images in batches (upscales the all images in the folder) [ ]
+- Customizable sizing and sharpening [ ]
+- More options for saving output [ ]
+- Improved interface [ ]
 
 To run this repository you only have to download the zip file that you will find in release, unzip it and run FSR Image Upscaler.exe
 
