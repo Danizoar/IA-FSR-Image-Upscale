@@ -14,7 +14,7 @@ def select_file():
 def run_commands():
     filename = entry.get()
     # Obtener el directorio donde se encuentra el archivo ejecutable
-    executable_dir = os.path.dirname(sys.executable)
+    executable_dir = os.path.dirname(sys.executable) # Need to make path work when not compiled to an executable
     #obtener directorio donde se encuentra el ejecutable
 
     script_dir = os.path.dirname(os.path.abspath(__file__))
